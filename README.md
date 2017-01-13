@@ -47,5 +47,5 @@ Preprocessing library Minimal-0.1.0.0...
 make: *** [demo] Error 1
 ```
 
-This behaviour has been observed on OSX with `cabal-install-1.22.6.0/Cabal-1.22.4.0/ghc-7.10.2`, `cabal-install-1.22.6.0/Cabal/1.22.6.0/ghc-7.10.3`, and
+This behaviour has been observed on OSX with `cabal-install-1.22.6.0/Cabal-1.22.4.0/ghc-7.10.2`, `cabal-install-1.22.6.0/Cabal-1.22.6.0/ghc-7.10.3`, and
 on Centos6 with `cabal-install-1.24.0.1/Cabal-1.24.1.0/ghc-8.0.1`.
