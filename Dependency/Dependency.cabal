@@ -1,0 +1,10 @@
+name: Dependency
+version: 0.1.0.0
+maintainer: noah.easterly@gmail.com
+synopsis: a package with a module that uses exposed and hidden modules
+build-type: Simple
+cabal-version: >= 1.2
+library
+  build-depends: base
+  exposed-modules: Dependency, Dependency.External
+  hs-source-dirs: .

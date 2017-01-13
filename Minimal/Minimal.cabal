@@ -1,0 +1,10 @@
+name: Minimal
+version: 0.1.0.0
+maintainer: noah.easterly@gmail.com
+synopsis: a package that using TemplateHaskell
+build-type: Simple
+cabal-version: >= 1.2
+library
+  build-depends: Dependency, base
+  exposed-modules: Minimal
+  hs-source-dirs: .
